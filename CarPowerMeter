@@ -24,7 +24,7 @@
 </head>
 <body>
     <!-- Image -->
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" alt="Description of image" width="300">
+    <img src="https://raw.githubusercontent.com/bestinvest111/Cpm/main/carmeter600x600.png" alt="Description of image" width="300">
 
     <!-- Description -->
     <p><strong>Car Power Meter</strong> is an Android app that measures the horsepower of your car within 10 seconds, displaying real-time results in kilowatts (kW) and horsepower (hp).</p>

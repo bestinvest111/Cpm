@@ -1,29 +1,51 @@
-<!-- Image -->
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" alt="Description of image" width="300">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Power Meter</title>
+    <style>
+        /* Basic styling for the button */
+        .cta-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <!-- Image -->
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" alt="Description of image" width="300">
 
-<!-- Bold Text -->
-<p><strong>Car Power Meter is an android app that  measures the horsepower of your car within 10 seconds. Realtime display in kilowatts(kW) and horsepower(hp).
+    <!-- Description -->
+    <p><strong>Car Power Meter</strong> is an Android app that measures the horsepower of your car within 10 seconds, displaying real-time results in kilowatts (kW) and horsepower (hp).</p>
 
+    <p>It features a simple user interface and requires input for the total weight of the car, including the driver's weight. Ensure precise location settings on your mobile device's GPS, then tap the start button when ready.</p>
 
-Has a simple user interface.Requires input for total weight of car including drivers weight. Set precise location settings on mobile device GPS and tap the start button when ready.
+    <p>You can screenshot the runs to log progress before and after any engine modifications.</p>
 
+    <p>Once payment is completed, a download link to the APK file will be sent to you.</p>
 
-You can screenshot the runs to log progress before and after any modifications done to engine.
+    <p><strong>Note:</strong> This digital item is non-refundable, so please ask any questions before purchasing.</p>
 
+    <!-- Copyright Notice -->
+    <p><strong>Copyright:</strong> Do not share or resell unless you have purchased the rights to do so.</p>
 
-Once payment done I will send you the download link to the APK file.
+    <!-- Call-to-Action Button -->
+    <a href="https://bit.ly/4cgwP5o" target="_blank" class="cta-button">Click Here</a>
+</body>
+</html>
 
+   
 
-This digital item is not refundable so ask any questions before buying .
+ 
 
-
-**Copyright**
-
-Do not share or resell unless you have bought the rights to do so.
-
-</strong></p>
-
-<!-- Button linking to a URL -->
-<a href="https://bit.ly/4cgwP5o" target="_blank">
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Click Here</button>
-</a>

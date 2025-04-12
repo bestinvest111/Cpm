@@ -1,0 +1,17 @@
+Car Power Meter
+Privacy policy
+
+May 01 ,2023
+
+I hereby declare that no data is collected during the operation of this app.
+Your device GPS location is used for a calculation in order to operate the app. This app gives an estimation and not used for vehicle diagnostics. 
+
+The app will always request permission for user to switch on GPS location . Upon closing the app the user can easily switch off location. 
+
+It is advised to be responsible when testing. A supervised and quiet roadway is preferred.
+This app must not be sold unless you have bought the rights to do so.
+
+Your sincerely.,
+TvT Techno
+
+Email : tvttechno1@gmail.com
